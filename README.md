@@ -14,13 +14,13 @@
 
 
 ### Connect with me
-  <a href="https://twitter.com/kunalstwt">
+  <a href="https://twitter.com/Santossmmu">
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>&ensp;
-  <a href="https://www.linkedin.com/in/kunal-kushwaha/">
+  <a href="https://www.linkedin.com/in/santoshmurmu/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>&ensp;
-  <a href="https://www.instagram.com/kunalsig/">
+  <a href="https://www.instagram.com/santosmmu/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
 
